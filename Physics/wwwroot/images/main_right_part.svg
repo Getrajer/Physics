@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1053" height="678.5" viewBox="0 0 1053 678.5">
+  <title>Zasób 2</title>
+  <g id="Warstwa_2" data-name="Warstwa 2">
+    <g id="Warstwa_4" data-name="Warstwa 4">
+      <ellipse cx="835.5" cy="663" rx="217.5" ry="15.5" style="fill: #9e9e9b;opacity: 0.1"/>
+      <g>
+        <g>
+          <rect x="257.5" width="788" height="365" style="fill: #d3e0ff"/>
+          <rect x="290" y="28.5" width="730" height="305" style="fill: #edf0ff"/>
+        </g>
+        <g>
+          <g>
+            <ellipse cx="383.05" cy="107.98" rx="50.51" ry="16" transform="translate(98.01 385.72) rotate(-60)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+            <ellipse cx="383.05" cy="107.98" rx="16" ry="50.51" transform="translate(-2.67 205.99) rotate(-30)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+            <ellipse cx="383.05" cy="107.98" rx="50.51" ry="16" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+          </g>
+          <circle cx="383.5" cy="108" r="10.5"/>
+        </g>
+        <polyline points="501 155.5 501 280.5 747 280.5" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <line x1="501.5" y1="281" x2="624.5" y2="189" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <polygon points="619.5 184 628.5 193 632.5 181 619.5 184"/>
+        <polygon points="495.26 155.5 507.98 155.64 502.45 144.26 495.26 155.5"/>
+        <polygon points="747 274.32 747.21 287.05 758.43 281.21 747 274.32"/>
+        <text transform="translate(711.3 102.01)" style="font-size: 34px;font-family: MyriadPro-Regular, Myriad Pro">E=mc</text>
+        <text transform="translate(794.72 82.67)" style="font-size: 15px;font-family: MyriadPro-Regular, Myriad Pro">2</text>
+        <path d="M565.79,232.91q46.53,12.08,22,47.59" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <ellipse cx="610.75" cy="240" rx="6.25" ry="11" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <line x1="604.5" y1="240" x2="617" y2="240" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <circle cx="897" cy="232.5" r="76.5" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-dasharray: 12.017069816589355,12.017069816589355"/>
+        <polyline points="897.5 144 897.5 229 989.5 229" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <line x1="939" y1="186.5" x2="829" y2="302.5" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <polygon points="990 222.32 990.21 235.05 1001.43 229.21 990 222.32"/>
+        <polygon points="932.9 184.43 942.47 192.82 945.68 180.59 932.9 184.43"/>
+        <polygon points="890.82 145.33 903.54 145.61 898.13 134.17 890.82 145.33"/>
+        <polygon points="835.25 305.62 825.74 297.16 822.45 309.37 835.25 305.62"/>
+        <rect x="319.5" y="271" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="339.5" y="271" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="339.5" y="251" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="359.5" y="251" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="359.5" y="231" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="359.5" y="271" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="379.5" y="211" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="379.5" y="251" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="379.5" y="231" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <rect x="379.5" y="271" width="20" height="20" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <path d="M302.5,265q30.5-50,87-76" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <polygon points="385.82 184.66 391.29 193.12 396.38 184.5 385.82 184.66"/>
+        <text transform="translate(493.06 81.62)" style="font-size: 18px;font-family: MyriadPro-Regular, Myriad Pro">( e ) = e</text>
+        <text transform="translate(509.05 72.14)" style="font-size: 12px;font-family: MyriadPro-Regular, Myriad Pro">x</text>
+        <text transform="translate(549.05 72.14)" style="font-size: 12px;font-family: MyriadPro-Regular, Myriad Pro">x</text>
+        <line x1="521" y1="64.5" x2="520" y2="67.5" style="stroke: #000;stroke-miterlimit: 10"/>
+        <text transform="translate(538.05 121.42)" style="font-size: 12px;font-family: MyriadPro-Regular, Myriad Pro">π=3,14159265359</text>
+        <ellipse cx="931" cy="89" rx="65" ry="9.5" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <path d="M865.5,89q41.6-69.07,83.19-49.74Q972.1,50.14,995.5,89" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <path d="M905.77,97.76Q902.58,55.65,948.5,39V98.15" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+        <line x1="904.65" y1="43.57" x2="971.5" y2="96" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+      </g>
+      <g>
+        <g>
+          <rect x="62.58" y="173.53" width="85.04" height="97.02" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+          <rect x="76.95" y="205.87" width="22.76" height="14.37" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+          <rect x="111.68" y="205.87" width="22.76" height="14.37" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+          <line x1="62.58" y1="209.46" x2="76.95" y2="209.46" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+          <line x1="99.71" y1="209.46" x2="111.68" y2="209.46" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+          <line x1="134.44" y1="209.46" x2="147.62" y2="209.46" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+          <polygon points="99.71 190.29 99.71 198.68 74.56 202.27 74.56 195.09 99.71 190.29" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <polygon points="111.69 190.29 111.69 198.68 136.84 202.27 136.84 195.09 111.69 190.29" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <path d="M75.55,237c-.07,1.73.34,2.93,2.4,2.39l3.59-1.19c.25,1.94,1.94,2.66,4.79,2.39l1.55-.51a3,3,0,0,1,2.94.55,6,6,0,0,0,3.9,1.16h0a1.93,1.93,0,0,1,3.09-.5l.5.5c3,.38,4.74-.2,6-1.2v-7.19c-8.07-1.7-15.4-1.95-21.56,0A9.07,9.07,0,0,0,75.55,237Z" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <path d="M135.44,237c.08,1.73-.33,2.93-2.39,2.39l-3.6-1.19c-.25,1.94-1.93,2.66-4.79,2.39l-1.54-.51a3,3,0,0,0-2.94.55,6,6,0,0,1-3.9,1.16h0a1.93,1.93,0,0,0-3.09-.5l-.51.5c-3,.38-4.73-.2-6-1.2v-7.19c8.07-1.7,15.39-1.95,21.56,0A9.06,9.06,0,0,1,135.44,237Z" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <ellipse cx="147.02" cy="184.91" rx="11.38" ry="20.96" transform="translate(-35.95 35.49) rotate(-12.28)" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <ellipse cx="61.98" cy="184.91" rx="20.96" ry="11.38" transform="translate(-131.88 206.15) rotate(-77.72)" style="fill: #e8ebf0;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <path d="M132.05,246.59l-1.8,4.79c-17.36,2.13-33.87,2.43-49.11,0l-3-4.79" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        </g>
+        <rect x="92" y="287.5" width="26.5" height="5" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="40.5" y="295" width="130" height="89" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="92" y="280.5" width="26.5" height="5" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="92" y="273.5" width="26.5" height="5" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="52.5" y="390" width="109" height="4" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="176.5" y="296" width="25" height="25" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="179.5" y="328" width="19.5" height="56" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="8.5" y="296" width="25.5" height="25" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="12.5" y="328" width="19.5" height="56" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="58.5" y="416" width="35" height="47" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="12.5" y="394" width="4" height="17" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="19.5" y="394" width="4" height="17" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="12.5" y="387" width="19" height="5" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="27.5" y="394" width="4" height="17" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="4.5" y="392" width="4" height="11" transform="translate(214.43 58.66) rotate(32.47)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="194.5" y="397" width="4" height="17" transform="translate(393 811) rotate(-180)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="187.5" y="397" width="4" height="17" transform="translate(379 811) rotate(-180)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="179.5" y="390" width="19" height="5" transform="translate(378 785) rotate(-180)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="179.5" y="397" width="4" height="17" transform="translate(363 811) rotate(-180)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="202.5" y="395" width="4" height="11" transform="matrix(-0.84, 0.54, -0.54, -0.84, 592.05, 628.59)" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="52.5" y="397" width="109" height="4" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="52.5" y="404" width="109" height="4" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <rect x="124.5" y="416" width="35" height="47" style="fill: #d2e1fe;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <g>
+          <path d="M75.71,475c20.35,3.85,27.6,17.39,23.7,39.17l-4.9-13c-1.86,15.47-9.81,24.48-20.73,30.34-3.85,6-3.39,10.38-1.1,14-4-3.05-7.66-6.49-6.89-15.05,1.75-5.36,2.61-10.36.11-14-5.33-5.51-8.81-10.9-8.88-16.06l-2.08,10c-3.69-10.33-4.38-19.53,2.2-26C62,477.58,68.65,475.65,75.71,475Z" style="fill: #ef5821"/>
+          <path d="M75.59,475c13.27,2.52,18,11.35,15.46,25.57l-3.2-8.51c-1.21,10.1-6.4,16-13.52,19.8-2.51,3.95-2.22,6.78-.72,9.13-2.61-2-5-4.24-4.5-9.82,1.14-3.5,1.71-6.76.07-9.14-3.47-3.59-5.74-7.11-5.79-10.48L62,498.06c-2.41-6.75-2.86-12.75,1.43-17C66.67,476.68,71,475.42,75.59,475Z" style="fill: #f9911e"/>
+          <path d="M75.26,475c6.89,1.31,9.35,5.9,8,13.28l-1.66-4.42a12.62,12.62,0,0,1-7,10.29c-1.3,2.05-1.15,3.52-.37,4.74a5,5,0,0,1-2.33-5.1c.59-1.82.88-3.51,0-4.75-1.8-1.86-3-3.69-3-5.44l-.7,3.38c-1.25-3.5-1.49-6.62.74-8.81C70.62,475.87,72.87,475.22,75.26,475Z" style="fill: #fdee23"/>
+        </g>
+        <g>
+          <path d="M141.71,475c20.35,3.85,27.6,17.39,23.7,39.17l-4.9-13c-1.86,15.47-9.81,24.48-20.73,30.34-3.85,6-3.39,10.38-1.1,14-4-3.05-7.66-6.49-6.89-15.05,1.75-5.36,2.61-10.36.11-14-5.33-5.51-8.81-10.9-8.88-16.06l-2.08,10c-3.69-10.33-4.38-19.53,2.2-26C128,477.58,134.65,475.65,141.71,475Z" style="fill: #ef5821"/>
+          <path d="M141.59,475c13.27,2.52,18,11.35,15.46,25.57l-3.2-8.51c-1.21,10.1-6.4,16-13.52,19.8-2.51,3.95-2.22,6.78-.72,9.13-2.61-2-5-4.24-4.5-9.82,1.14-3.5,1.71-6.76.07-9.14-3.47-3.59-5.74-7.11-5.79-10.48L128,498.06c-2.41-6.75-2.86-12.75,1.43-17C132.67,476.68,137,475.42,141.59,475Z" style="fill: #f9911e"/>
+          <path d="M141.26,475c6.89,1.31,9.35,5.9,8,13.28l-1.66-4.42a12.62,12.62,0,0,1-7,10.29c-1.3,2.05-1.15,3.52-.37,4.74a5,5,0,0,1-2.33-5.1c.59-1.82.88-3.51,0-4.75-1.8-1.86-3-3.69-3-5.44l-.7,3.38c-1.25-3.5-1.49-6.62.74-8.81C136.62,475.87,138.87,475.22,141.26,475Z" style="fill: #fdee23"/>
+        </g>
+      </g>
+      <ellipse cx="107" cy="605" rx="107" ry="15.5" style="fill: #9e9e9b;opacity: 0.3"/>
+      <rect x="651" y="495.5" width="8" height="167" style="fill: #9ca7bc"/>
+      <rect x="1020" y="495.5" width="8" height="167" style="fill: #9ca7bc"/>
+      <rect x="612" y="485.5" width="433" height="10" style="fill: #9ca7bc"/>
+      <g>
+        <rect x="911.48" y="478.55" width="14.54" height="6.95" style="fill: #485582"/>
+        <rect x="997.45" y="478.55" width="14.54" height="6.95" style="fill: #485582"/>
+        <rect x="902" y="469.7" width="122" height="8.85" style="fill: #8a9ffa"/>
+        <path d="M919.38,459.27l-.31,10.43h59.5c18.82-8.58,33-19.14,30.89-36.67-1.54-16.42-14-25.44-29.71-32.23l.32-4.75-13.28-3.16-9.48,16.44,15.8,5.06.64-5.06c11.59,4.5,22,10,23.38,23.39-.49,13.88-8,22.12-20.22,26.55H945.3V444.73H928.87v14.54Z" style="fill: #646fa0"/>
+        <polygon points="931.71 407.75 956.36 415.33 978.49 367.29 955.1 360.65 931.71 407.75" style="fill: #003ed2"/>
+        <polygon points="932.97 410.91 934.04 408.47 953.83 414.56 952.57 417.23 932.97 410.91" style="fill: #646fa0"/>
+        <polygon points="934.87 413.13 935.58 411.54 948.78 415.5 947.93 417.23 934.87 413.13" style="fill: #646fa0"/>
+        <rect x="917.17" y="439.35" width="41.09" height="5.69" style="fill: #003ed2"/>
+        <rect x="928.55" y="433.67" width="18.33" height="5.69" style="fill: #f0f"/>
+      </g>
+    </g>
+  </g>
+</svg>
